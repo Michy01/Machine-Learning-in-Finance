@@ -4,6 +4,7 @@
 <p align="center">
   <img width="200" src="https://images.credly.com/size/680x680/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png" alt="Credly verification">
 </p>
+<h1 align="center">[Credly verification](https://www.credly.com/badges/55865169-6f08-4af5-8bd7-af6f842d4147)</h1>
 
 Issued by [WorldQuant University](https://www.credly.com/organizations/wqu/badges) Earners of this badge have completed eight end-to-end, applied data science projects. In each project, they accessed data from files, SQL and NoSQL databases and APIs. They have demonstrated their ability to explore and clean data, create functions and ETL pipelines to prepare training sets. They have built machine learning models for supervised and unsupervised learning tasks, and have created visualizations to explain data characteristics and model predictions for non-technical audiences.
 
